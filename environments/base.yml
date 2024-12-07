@@ -18,6 +18,7 @@ dependencies:
   - smart-open=7.0.5
   - ydata-profiling=0.0.dev0
   - openpyxl
+  - tqdm
   - pip:
     - watermark==2.5.0
     - ruff==0.7.2
